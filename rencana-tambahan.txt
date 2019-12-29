@@ -6,6 +6,7 @@ rencana tambahan
    ^ percabangan
    ^ struktur data
    ^ perulangan
+   ^ array
 - kuasai c
 - kuasai c++
 - kuasay python
