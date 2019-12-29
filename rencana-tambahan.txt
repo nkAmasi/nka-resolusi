@@ -7,3 +7,5 @@ rencana tambahan
    ^ struktur data
    ^ perulangan
 - kuasai c
+- kuasai c++
+- kuasay python
