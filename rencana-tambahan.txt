@@ -3,6 +3,8 @@ rencana tambahan
  * kuasai console
 - kuasa C#
  * kuasai console
+   ^ percabangan
+   ^ struktur data
    ^ perulangan
 - kuasai c
 - kuasai c++
