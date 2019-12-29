@@ -1,4 +1,5 @@
 NKA-Resolusi : 
-1. lsls
-2. dkdk
-3. jkdd
+1. kuasai HTML
+2. kuasai CSS
+3. Kuasai Javascript
+4. Kuasai PHP
