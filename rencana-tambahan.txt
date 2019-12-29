@@ -3,3 +3,4 @@ rencana tambahan
  * kuasai console
 - kuasa C#
  * kuasai console
+- kuasai c
