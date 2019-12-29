@@ -5,3 +5,5 @@ rencana tambahan
  * kuasai console
    ^ perulangan
 - kuasai c
+- kuasai c++
+- kuasay python
