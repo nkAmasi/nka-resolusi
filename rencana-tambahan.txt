@@ -1,0 +1,5 @@
+rencana tambahan
+- kuasai VB
+ * kuasai console
+- kuasa C#
+ * kuasai console
