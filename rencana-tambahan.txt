@@ -3,4 +3,7 @@ rencana tambahan
  * kuasai console
 - kuasa C#
  * kuasai console
+   ^ perulangan
 - kuasai c
+- kuasai c++
+- kuasay python
