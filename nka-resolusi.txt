@@ -1,5 +1,5 @@
 NKA-Resolusi : 
-1. kuasai HTML
-2. kuasai CSS
-3. Kuasai Javascript
-4. Kuasai PHP
+1. kuasai CSS
+2. Kuasai Javascript
+3. Kuasai PHP
+4. kuasai Java
